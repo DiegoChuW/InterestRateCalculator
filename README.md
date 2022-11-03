@@ -1,4 +1,4 @@
 # InterestRateCalculator
-# Java
 
-Simple interest calculator with compound interest
+
+Java interest calculator with compound interest
